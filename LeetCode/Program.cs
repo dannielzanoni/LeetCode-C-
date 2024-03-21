@@ -4,7 +4,7 @@ public class Program
 {
     static void Main(string[] args)
     {   
-        ReverseInteger reverseInteger = new ReverseInteger();
-        reverseInteger.Execute();
+        _1342___Number_of_Steps num = new _1342___Number_of_Steps();
+        num.Execute();
     }
 }
