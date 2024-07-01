@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|c:\\users\\danie\\onedrive\\\u00E1rea de trabalho\\c#\\leetcode-csharp\\leetcode\\383.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\383.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|c:\\users\\danie\\onedrive\\\u00E1rea de trabalho\\c#\\leetcode-csharp\\leetcode\\14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|c:\\users\\danie\\onedrive\\\u00E1rea de trabalho\\c#\\leetcode-csharp\\leetcode\\1342 - number of steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\1342 - number of steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|c:\\users\\danie\\onedrive\\\u00E1rea de trabalho\\c#\\leetcode-csharp\\leetcode\\383.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB842B-D4B8-466F-9887-8368ED73DD6E}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\383.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 433,
+          "DockedWidth": 169,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -35,27 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "383.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\383.cs",
-              "RelativeDocumentMoniker": "LeetCode\\383.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\383.cs",
-              "RelativeToolTip": "LeetCode\\383.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAMwBsAAAARAAAA",
+              "Title": "14.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\14.cs",
+              "RelativeDocumentMoniker": "LeetCode\\14.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\14.cs",
+              "RelativeToolTip": "LeetCode\\14.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T03:08:09.894Z",
+              "WhenOpened": "2024-06-30T23:03:45.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "1342 - Number of Steps.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\1342 - Number of Steps.cs",
-              "RelativeDocumentMoniker": "LeetCode\\1342 - Number of Steps.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\1342 - Number of Steps.cs",
-              "RelativeToolTip": "LeetCode\\1342 - Number of Steps.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Title": "383.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\383.cs",
+              "RelativeDocumentMoniker": "LeetCode\\383.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\383.cs",
+              "RelativeToolTip": "LeetCode\\383.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T03:07:40.813Z",
+              "WhenOpened": "2024-04-23T03:08:09.894Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "LeetCode\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\\u00C1rea de Trabalho\\C#\\LeetCode-CSharp\\LeetCode\\Program.cs",
               "RelativeToolTip": "LeetCode\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T03:07:39.591Z",
               "EditorCaption": ""
